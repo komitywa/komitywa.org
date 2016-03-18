@@ -1,2 +1,4 @@
 # Ignored Output
 /output/
+__pycache__/
+*.pyc
