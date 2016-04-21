@@ -14,6 +14,14 @@ TIMEZONE = 'Europe/Warsaw'
 
 DEFAULT_LANG = 'pl'
 
+# Feed generation off, since no articles right now
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+
+
 SOCIAL = (('Facebook', 'https://www.facebook.com/KOMITYWA.org'),)
 
 DEFAULT_PAGINATION = 10
