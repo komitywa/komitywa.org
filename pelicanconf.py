@@ -6,6 +6,8 @@ AUTHOR = 'Komitywa'
 SITENAME = 'Komitywa.org'
 SITEURL = ''
 
+THEME = 'themes/notmyidea'
+
 PATH = 'content'
 
 TIMEZONE = 'Europe/Warsaw'
