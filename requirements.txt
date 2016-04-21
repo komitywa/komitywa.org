@@ -1,2 +1,2 @@
-pelican
+-e git+https://github.com/getpelican/pelican#egg=pelican
 Markdown
