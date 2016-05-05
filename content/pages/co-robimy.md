@@ -5,7 +5,7 @@ Title: co robimy?
 
 Chcemy wciągnąć mieszkańców w dialog i zmianę przestrzeni publicznej.
 
-Aplikacja wykorzystuje widok ulicy i grywalizację, żeby dostarczyć zarówno pomysłów w postaci inspirujących wizualizacji, jak i statystyk, które moga usprawnić wprowadzenie przez osoby decyzyjne zmian w przestrzeni miast. Aplikacja może być świetnym uzupełnieniem konsultacji społecznych i pozwoli na lepszy kontakt administracji publicznej z mieszkańcami.
+Aplikacja wykorzystuje widok ulicy i grywalizację, żeby dostarczyć zarówno pomysłów w postaci inspirujących wizualizacji, jak i statystyk, które mogą usprawnić wprowadzenie przez osoby decyzyjne zmian w przestrzeni miast. Aplikacja może być świetnym uzupełnieniem konsultacji społecznych i pozwoli na lepszy kontakt administracji publicznej z mieszkańcami.
 
 [Prezentacja Wysadzulice.pl](http://www.slideshare.net/KomitywaTV/czy-bdzie-wysadzulicepl)
 
