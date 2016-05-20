@@ -2,9 +2,8 @@
 
 AUTHOR = 'Komitywa'
 SITENAME = 'Komitywa.org'
-SITEURL = ''
 
-THEME = 'themes/notmyidea'
+THEME = 'themes/komitywa'
 
 PATH = 'content'
 
@@ -20,7 +19,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 
-SOCIAL = (('Facebook', 'https://www.facebook.com/KOMITYWA.org'),)
+SOCIAL = (
+    ('facebook', 'https://www.facebook.com/KOMITYWA.org'),
+    ('github', 'https://www.github.com/komitywa')
+)
 
 DEFAULT_PAGINATION = 10
 
