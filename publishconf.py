@@ -7,5 +7,5 @@ sys.path.append(os.curdir)
 
 from pelicanconf import *
 
-
 SITEURL = 'http://komitywa.org'
+RELATIVE_URLS = False
